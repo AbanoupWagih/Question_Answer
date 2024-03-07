@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Cormorant Upright", serif;
+}
+.color-body {
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+.font {
+  font-family: "Cormorant Upright", serif;
+  font-size: 15px;
+}
+.title {
+  font-weight: bold;
+  font-size: 30px;
+}
